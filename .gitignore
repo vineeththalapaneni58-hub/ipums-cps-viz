@@ -1,0 +1,8 @@
+data/
+*.dat.gz
+*.xml
+*.csv.gz
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
